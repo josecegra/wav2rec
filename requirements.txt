@@ -1,7 +1,7 @@
 cached_property==1.5.2
 kornia==0.5.7
 librosa==0.8.0
-numpy==1.22.0
+numpy==1.23.0
 pytorch-lightning
 vit_pytorch
 scipy
